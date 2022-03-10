@@ -1,0 +1,1 @@
+var SubDomain = 'batafranchisedalazakroad'; var SiteID = 'B215C8CE-F88C-4201-BCBC-40E7EB5002B2'; var host = 'https://api.eraconnect.net';
